@@ -9,17 +9,17 @@ This is the curriculum for [this](https://youtu.be/_qjNH1rDLm0) video on Youtube
 ## Week 1 - Feedforward Neural Networks and Backpropagation
 
 - [ ] Read Part I of the Deep Learning Book found [here](http://www.deeplearningbook.org/) 
-- [ ] Use this cheat sheet to help understand any math notation, found [here](https://www.flickr.com/photos/95869671@N08/40544016221)
-- [ ] Watch [Build a Neural Net in 4 Minutes](https://www.youtube.com/watch?v=h3l4qz76JhQ)
-- [ ] Read [Neural Net in 11 lines](https://iamtrask.github.io/2015/07/12/basic-python-network/) 
+- [ ]x Use this cheat sheet to help understand any math notation, found [here](https://www.flickr.com/photos/95869671@N08/40544016221)
+- [x] Watch [Build a Neural Net in 4 Minutes](https://www.youtube.com/watch?v=h3l4qz76JhQ)
+- [x] Read [Neural Net in 11 lines](https://iamtrask.github.io/2015/07/12/basic-python-network/) 
 - [ ] Type out the neural network code yourself in a text editor, compile, and run it locally (using no ML libraries)
-- [ ] Watch [Backpropagation in 5 minutes](https://www.youtube.com/watch?v=q555kfIFUCM)
+- [x] Watch [Backpropagation in 5 minutes](https://www.youtube.com/watch?v=q555kfIFUCM)
 
 ## Week 2 - Convolutional Networks
 
 - [ ] Watch the Convolutional Networks Specialization on Coursera, found [here](https://www.coursera.org/learn/convolutional-neural-networks). 
 - [ ] Read all 3 lecture notes under Module 2 for Karpathy CNN course found [here](http://cs231n.github.io/)
-- [ ] Watch my video on CNNs [here](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) and [here](https://www.youtube.com/watch?v=cAICT4Al5Ow&t=4s)
+- [x] Watch my video on CNNs [here](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) and [here](https://www.youtube.com/watch?v=cAICT4Al5Ow&t=4s)
 - [ ] Write out a simple CNN yourself (using no ML libraries)
 
 ## Week 3 - Recurrent Networks
